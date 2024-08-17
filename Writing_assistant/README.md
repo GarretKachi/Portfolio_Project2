@@ -1,6 +1,6 @@
 The Intelligent Writing Assistant is a web application designed to help users with various writing tasks, including essays, stories, poems, and business reports. The app provides features such as auto-completion, grammar and style checking, plagiarism detection, and content summarization. The backend is built using Python and FastAPI, and the frontend uses JavaScript with a framework like React.js.
 
-## Table of Contents
+## Table of Contents.
 
 - [Overview](#overview)
 - [Features](#features)
