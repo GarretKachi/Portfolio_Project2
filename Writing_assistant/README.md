@@ -87,3 +87,12 @@ intelligent-writing-assistant/
 ├── .gitignore
 └── README.md
 
+# Installation
+
+## Backend
+
+### Clone the repository:
+
+```bash
+git clone https://github.com/Robertpaschal/intelligent-writing-assistant.git
+
