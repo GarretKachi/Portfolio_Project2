@@ -86,7 +86,7 @@ intelligent-writing-assistant/
 │   ├── docker-compose.yml
 ├── .gitignore
 └── README.md
-
+```
 # Installation
 
 ## Backend
@@ -95,4 +95,3 @@ intelligent-writing-assistant/
 
 ```bash
 git clone https://github.com/Robertpaschal/intelligent-writing-assistant.git
-
